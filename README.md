@@ -24,3 +24,7 @@ O Corinthians não é apenas parte da nossa vida, ele também está presente nas
 Se você vive Corinthians como nós, este aplicativo será o seu novo lar digital. Ele vai muito além do futebol; é sobre pertencimento, sobre ser parte de algo maior, sobre amar incondicionalmente. Este é o espaço da Fiel, para a Fiel.
 
 Corinthians minha vida, minha história, meu amor!
+
+<hr>
+
+<h3><b>Wiki: https://github.com/EduardoFaiscaFerreira/QuartoBim_PAM/wiki/Tela-de-inicio</b></h3>
